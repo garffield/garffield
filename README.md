@@ -1,4 +1,4 @@
-## Hi, I’m @garffield
+## Olá, eu sou o Gabriel :D
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=dark)
 
