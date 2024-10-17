@@ -1,6 +1,6 @@
 <h1 align="center" style="margin: 0; padding: 0;"> Olá! Seja Bem-Vindo ao meu GitHub</h1>
 <p align="center"> Meu nome é Gabriel Franklin</p>
-<p align="center">Eu sou um futuro <strong><em>Desenvolvedor FullStack!</em></strong> </p>
+<p align="center">Futuro <strong><em>Desenvolvedor FullStack!</em></strong> </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielfranklinbarcellos/">
