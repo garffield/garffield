@@ -2,8 +2,6 @@
 <p align="center"> Meu nome é Gabriel Franklin</p>
 <p align="center">Eu sou um futuro <strong><em>Desenvolvedor FullStack!</em></strong> </p>
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielfranklinbarcellos/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,6 +10,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>          
+
+> #### Linguagens
+ #### Version Control:
+> [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/)
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
