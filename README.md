@@ -30,3 +30,9 @@
 ### Projects
 <p> Em breve</p>
 
+<br>
+### Educação/Qualificação: 
+<p>Em breve</p>
+
+### Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garffield&layout=compact&title_color=FF69B4&text_color=FF69B4&bg_color=FFFFFF&hide_border=true)
