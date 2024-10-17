@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel :D
+<h1 align="center" style="margin: 0; padding: 0;"> Olá! Seja Bem-Vindo ao meu GitHub</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=dark)
 
