@@ -31,6 +31,7 @@
 <p> Em breve</p>
 
 <br>
+
 ### Educação/Qualificação: 
 <p>Em breve</p>
 
