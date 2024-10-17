@@ -1,4 +1,6 @@
 <h1 align="center" style="margin: 0; padding: 0;"> Olá! Seja Bem-Vindo ao meu GitHub</h1>
+<p align="center"> Meu nome é Gabriel Franklin</p>
+<p align="center">Eu sou um futuro <strong><em>Desenvolvedor FullStack</em></strong> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel&show_icons=true&theme=dark)
 
