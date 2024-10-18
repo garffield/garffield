@@ -36,7 +36,7 @@
 <p>Em breve</p>
 
 ### Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garffield&layout=compact&title_color=FF69B4&text_color=000000&bg_color=FFFFFF&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garffield&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF&hide_border=true)
 
 <br>
 
